@@ -1,0 +1,136 @@
+.result-main--container h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    /* margin: 0 auto; */
+    text-align: center;
+    color: #f7f7f7;
+}
+
+.result-top--container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.basic-info{
+    display: flex;
+     justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 6px;
+    /* width: 38%; */
+    height: 140px;
+    padding: 10px;
+    border: 4px solid #FF6363;
+    align-items: center;
+    margin: 30px 0;
+}
+
+.result-bmi-container{
+    border: 2px solid #FF6363;
+    width: 266px;
+    box-sizing: border-box;
+    margin: 38px;
+}
+
+.result-chart--container img{
+    width: 380px;
+}
+
+.bmi-element--container{
+    color: #fff;
+    width: 264px;
+    border: 1px solid #FF6363; 
+    display: flex;
+    padding: 0 5px;
+    box-sizing: border-box;
+}
+.utility-bold{
+    font-weight: bold;
+}
+
+.bmi-element--container p{
+    width: 100px;
+    margin-right: 30px;
+}
+
+.result-bottom--container{
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin: 80px 0;
+    letter-spacing: 1px;
+}
+
+.result-bottom--container span{
+    color:#FF6363
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .result nav{
+    display: flex;
+
+}
+.section-first{
+    display: flex;
+    justify-content: center;
+}
+.section-first .heart-cont{
+    width: 40%;
+}
+
+.section-second{
+
+    display: flex;
+    bottom: 0;
+    gap: 2em;
+    justify-content: center;
+}
+.section-second .heart-rate{
+    background-color: red;
+    border-radius: 1em;
+    box-sizing: border-box;
+    padding: 20px;
+    width: 60%;
+}
+.group{
+    display: flex;
+    justify-content: space-between;
+}
+.section-second .heart-rate header{
+    display: flex;
+    justify-content: space-between;
+}
+.documents{
+    background-color: red;
+    border-radius: 10px;
+    width: 30%;
+    padding: 20px;
+}
+.documents button{
+    border: none;
+    padding: 5px;
+}
+.documents ul li{
+    padding: 5px 0 ;
+} */
